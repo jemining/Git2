@@ -4,11 +4,7 @@
 
 /* Base styling */
 
-body {
-       width: 100%;
-        background-color: #B2CCFF;
-        font-family: 'Raleway', sans-serif;
-}
+
 
 .search__container {
         width: 430px;
@@ -18,7 +14,7 @@ body {
         font-size: 22px;
         font-weight: 900;
         text-align: center;
-        color: #469840;
+        color: black;
     }
 .search__input {
         width: 100%;
